@@ -1,11 +1,43 @@
-### Hi there 👋
+<h2 align="center"> Hi there 👋 </h2>
 
-My name is Zhang. I am a Unity Developer.
+<h3 align="center">My name is Zhang. I am a Unity Developer.</h3>
 
-#### 🔭 Work 
+####
 
-* I’m currently working on [MMOARPG] | Mostly UI, tool and gameplay programming as a Unity Developer.
-* I'm developer of [CCGUI](https://github.com/devagame/ccgui) and [APP-VUMS](https://github.com/devagame/app-vums).
-* Involved in the 《魔力时代》《武神赵子龙》《封神召唤师》《九州异闻录》《启源女神》《二次元MMO》...
+<h3 align="center">Involved in the:</h3>
+<p align="center"> 
+<img height="32" src="https://img.shields.io/badge/-魔力时代-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-武神赵子龙-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-封神召唤师-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-九州异闻录-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-启源女神-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-二次元MMO-000?&logo=CPlusPlus" />
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BadZhang&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="center">Languages:</h3>
+<p align="center"> 
+<img height="32" src="https://img.shields.io/badge/-HLSL-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-CG-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-GLSL-000?&logo=opengl" />
+<img height="32" src="https://img.shields.io/badge/-CSharp-000?&logo=CSharp" />
+<img height="32" src="https://img.shields.io/badge/-C++-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-Go-000?&logo=Go" />
+<img height="32" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+<img height="32" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+<img height="32" src="https://img.shields.io/badge/-Lua-000?&logo=Lua" />
+</p>
+
+<h3 align="center">Software:</h3>
+<p align="center"> 
+<img height="32" src="https://img.shields.io/badge/-Unity-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-UE-000?&logo=unrealengine" />
+<img height="32" src="https://img.shields.io/badge/-Houdini-000?&logo=Houdini" />
+<img height="32" src="https://img.shields.io/badge/-Blender-000?&logo=Blender" />
+<img height="32" src="https://img.shields.io/badge/-PS-000?&logo=adobephotoshop" />
+</p>
+
+<p align="center"> 
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=badzhang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+</p>
+
+<h3 align="center">🔭 I’m currently working on [MMOARPG] | Mostly UI, tool and gameplay programming as a Unity Developer.</h3>
