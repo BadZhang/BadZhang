@@ -6,6 +6,7 @@
 
 <h3 align="center">Involved in the:</h3>
 <p align="center"> 
+<img height="32" src="https://img.shields.io/badge/-英雄-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-魔力时代-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-武神赵子龙-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-封神召唤师-000?&logo=CPlusPlus" />
@@ -34,10 +35,6 @@
 <img height="32" src="https://img.shields.io/badge/-Houdini-000?&logo=Houdini" />
 <img height="32" src="https://img.shields.io/badge/-Blender-000?&logo=Blender" />
 <img height="32" src="https://img.shields.io/badge/-PS-000?&logo=adobephotoshop" />
-</p>
-
-<p align="center"> 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=badzhang&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </p>
 
 <h3 align="center">🔭 I’m currently working on [MMOARPG] | Mostly UI, tool and gameplay programming as a Unity Developer.</h3>
