@@ -13,6 +13,7 @@
 <img height="32" src="https://img.shields.io/badge/-九州异闻录-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-启源女神-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-二次元MMO-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-二次元卡牌-000?&logo=CPlusPlus" />
 </p>
 
 <h3 align="center">Languages:</h3>
