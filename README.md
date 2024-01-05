@@ -29,6 +29,23 @@
 <img height="32" src="https://img.shields.io/badge/-Lua-000?&logo=Lua" />
 </p>
 
+<p align="center"> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/mario1in/mario1in/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</p>
+
 <h3 align="center">Software:</h3>
 <p align="center"> 
 <img height="32" src="https://img.shields.io/badge/-Unity-000?&logo=Unity" />
