@@ -6,14 +6,14 @@
 
 <h3 align="center">Involved in the:</h3>
 <p align="center"> 
-<img height="32" src="https://img.shields.io/badge/-英雄-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-魔力时代-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-武神赵子龙-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-封神召唤师-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-九州异闻录-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-启源女神-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-二次元MMO-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-二次元卡牌-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-《请叫我英雄》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-《魔力时代》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-《武神赵子龙》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-《封神召唤师》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-《九州异闻录》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-《启源女神》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-二次元MMO《代号: 星海》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-二次元卡牌《异三国: 苍天演命》-000?&logo=CPlusPlus" />
 </p>
 
 <h3 align="center">Languages:</h3>
