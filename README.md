@@ -12,8 +12,14 @@
 <img height="32" src="https://img.shields.io/badge/-《封神召唤师》-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-《九州异闻录》-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-《启源女神》-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-二次元MMO《代号: 星海》-000?&logo=CPlusPlus" />
-<img height="32" src="https://img.shields.io/badge/-二次元卡牌《异三国: 苍天演命》-000?&logo=CPlusPlus" />
+<img height="32" src="https://img.shields.io/badge/-二次元MMO《代号: 星海》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-二次元卡牌《异三国: 苍天演命》-000?&logo=Unity" />
+</p>
+
+<p align="center"> 
+<img height="32" src="https://img.shields.io/badge/-MiniGame《指尖无双(仿)》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-MiniGame《一路大冒险》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-MiniGame《背包大冒险》-000?&logo=Unity" />
 </p>
 
 <h3 align="center">Languages:</h3>
