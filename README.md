@@ -31,7 +31,7 @@
 <img height="32" src="https://img.shields.io/badge/-C++-000?&logo=CPlusPlus" />
 <img height="32" src="https://img.shields.io/badge/-Go-000?&logo=Go" />
 <img height="32" src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-<img height="32" src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+<img height="32" src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
 <img height="32" src="https://img.shields.io/badge/-Lua-000?&logo=Lua" />
 </p>
 
@@ -56,6 +56,7 @@
 <p align="center"> 
 <img height="32" src="https://img.shields.io/badge/-Unity-000?&logo=Unity" />
 <img height="32" src="https://img.shields.io/badge/-UE-000?&logo=unrealengine" />
+<img height="32" src="https://img.shields.io/badge/-COCOS-000?&logo=COCOS" />
 <img height="32" src="https://img.shields.io/badge/-Houdini-000?&logo=Houdini" />
 <img height="32" src="https://img.shields.io/badge/-Blender-000?&logo=Blender" />
 <img height="32" src="https://img.shields.io/badge/-PS-000?&logo=adobephotoshop" />
