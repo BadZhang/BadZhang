@@ -17,9 +17,17 @@
 </p>
 
 <p align="center"> 
-<img height="32" src="https://img.shields.io/badge/-MiniGame《指尖无双(仿)》-000?&logo=Unity" />
-<img height="32" src="https://img.shields.io/badge/-MiniGame《一路大冒险》-000?&logo=Unity" />
-<img height="32" src="https://img.shields.io/badge/-MiniGame《背包大冒险》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-SLG《守卫与远征》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-SLG《帕萌战斗日记》-000?&logo=Unity" />
+</p>
+
+<p align="center"> 
+<img height="32" src="https://img.shields.io/badge/-《TileMatch》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-《WaterSort》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-《指尖无双(仿)》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-《背包大冒险》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-《AI女团养成》-000?&logo=Unity" />
+<img height="32" src="https://img.shields.io/badge/-《一路大冒险》-000?&logo=Unity" />
 </p>
 
 <h3 align="center">Languages:</h3>
